@@ -1,0 +1,15 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(0, 0, 0, 0.291);
+  }
+
+.conteudo{
+  background-color:rgba(144, 141, 214, 0.381);
+  h2{
+    color:blue;
+    text-align: center;
+  }
+}
